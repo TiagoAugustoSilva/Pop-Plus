@@ -5,6 +5,12 @@
 
 Este projeto é uma interface de uma máquina de refrigerantes desenvolvida em React. A interface permite que os usuários escolham um refrigerante, especifiquem a quantidade e façam o pagamento. A aplicação simula a compra de refrigerantes e o gerenciamento do estoque e do troco.
 
+![ALT Text](img/Pop-Plus.png)
+
+![ALT Text](img/processando.png)
+
+![ALT Text](img/compra-realizada.png)
+
 ## Funcionalidades
 
 - Seleção de refrigerantes (Coca-cola, Fanta-laranja, Guaraná)
