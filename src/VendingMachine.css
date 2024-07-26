@@ -13,7 +13,7 @@ body {
 
 /* Estilo da geladeira de refrigerantes */
 .vending-machine-container {
-  background: linear-gradient(135deg,#8c00ff, #00ff22, #0f8296); 
+  background: linear-gradient(135deg,#8c00ff, #00ff22, #8c00ff); 
   border: 3px solid #ccc;
   border-radius: 10px;
   display: flex;
