@@ -7,6 +7,7 @@ Este projeto é uma interface de uma máquina de refrigerantes desenvolvida em R
 
 ![ALT Text](img/Pop-Plus.png)
 
+![ALT Text](img/processando_aguarde.png)
 
 ![ALT Text](img/compra-realizada.png)
 
